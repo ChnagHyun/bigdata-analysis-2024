@@ -13,3 +13,5 @@
 - 서울 열린데이터 광장 Open APIㅣ 서비스로 인구통계 데이터 수집
 
 1. 스타벅스 코리아 웹사이트(http://www.starbucks.co.kr/)
+2. 린데이터 광장 OPEN API 서비스(https://data.seoul.go.kr/)
+
