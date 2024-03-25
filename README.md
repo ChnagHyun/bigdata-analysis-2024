@@ -69,3 +69,5 @@
     - 환경에 따른 주택가격 예측
     - 항목에 따른 자동차 연비 예측
     - 로지스틱회귀 분석
+
+## [12일차](https://github.com/ChnagHyun/bigdata-analysis-2024/blob/main/Day11.md)
