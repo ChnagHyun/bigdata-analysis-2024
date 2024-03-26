@@ -49,4 +49,4 @@
     ![긍정뉴스바차트](https://raw.githubusercontent.com/ChnagHyun/bigdata-analysis-2024/main/images/ba020.png)
 
 --
-    [이전]()
+    [이전](https://github.com/ChnagHyun/bigdata-analysis-2024/tree/main)
